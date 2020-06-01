@@ -19,7 +19,8 @@
             "synonyms": [
                 "stadiums", 
                 "locations", 
-                "venue"
+                "venue",
+                "concert halls"
             ], 
             "value": "venues"
         }, 
